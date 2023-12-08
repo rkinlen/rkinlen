@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rory Kinlen</h1>
-<h3 align="center">A 14 Year old from the UK</h3>
+<h3 align="center">A 15 Year old from the UK</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkinlen&show_icons=true&locale=en" alt="rkinlen" /></p>
 
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **anythin**
 
-- 📫 How to reach me **kinlenr@gmail.com**
+- 📫 How to reach me **kinlenr@icloud.com**
 
 - ⚡ Fun fact **I have a MIT in HTML and CSS/JS fundimentals.**
 
